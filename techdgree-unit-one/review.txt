@@ -1,0 +1,58 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Shekhar Khadka's Profile</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css?family=Muli%7CRoboto:400,300,500,700,900" rel="stylesheet"></head>
+  <body>
+
+    <div class="main-nav">
+        <ul class="nav">
+          <li class="name">Shekhar Khadka</li>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="experience.html">Experience</a></li>
+        </ul>
+    </div>
+
+    <header>
+      <img src="images/shekharpic.png" alt="Drawing of Shekhar Khadka" class="profile-image">
+      <h1 class="tag name">Hello, I’m Shekhar.</h1>
+      <p class="tag location">My home is Gold Coast, Australia.</p>
+    </header>
+
+    <main class="flex">
+        <section class="qualifications">
+         <h2>Academic Qualifications</h2>
+            <ul class="experiences">
+                <li> Master of Business Studies with major in Finance, Shanker Dev College, Tribhuvan Univeristy-Nepal</li>
+                <li>Bacherlor in Business Studies, Peoples College, Tribhuvan University-Nepal</li>
+                <li> Proficiency Certificate Level (+2) In Management National School of Sciences (NSS) Kathmandu, Nepal</li>
+                <li>School Leaving Certificate (class 10),Little Rose Boarding High School,Kathmandu Nepal</li>
+            </ul>
+        </section> 
+
+      <section class="card">
+        <h2>Experiences and Competencies</h2>
+        <ul class="experiences">
+                <li>Currently working in hospitality </li>
+                <li> Worked in Commercial banks for 6 years</li>
+                <li>Flexible, reliable and be able to work at a fast pace </li>
+                <li> Demonstrated ability of prioritizing, organizing and following through on different work tasks</li>
+                <li> Have a “can do” attitude.</li>
+        </ul>
+        </section> 
+     </main>
+
+    <footer>
+      <ul>
+        <li><a href="https://twitter.com/shekhar15953224" target="_blank" class="social twitter">Twitter</a></li>
+        <li><a href="https://www.linkedin.com/in/shekhar-khadka-4134901b/" target="_blank" class="social linkedin">LinkedIn</a></li>
+        <li><a href="https://github.com/shekhar4214/techdegree-project-1" target="_blank" class="social github">Github</a></li>
+      </ul>
+      <p class="copyright">Copyright 2019, Shekhar Khadka</p>
+    </footer>
+  </body>
+  </html>
